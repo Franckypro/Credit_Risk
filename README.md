@@ -1,5 +1,5 @@
 ---
-title: CREDIT RISK FRANCKY
+title: CREDIT RISK FRANCKY APPLICATION DE TEST
 emoji: 🏢
 colorFrom: red
 colorTo: pink
